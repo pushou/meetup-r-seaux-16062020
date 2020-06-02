@@ -1,32 +1,52 @@
 # Programme meetup réseaux R&T du Mardi 16 Juin 2020 
 
 
-#  13:00 à 14:00 Quels orientations pour les professionnels ?
-
+##  13:00 à 14:00 Quels orientations pour les professionnels ?
 
 Ces questions sont focalisées sur les métiers des réseaux et de l'infrastructure au sens large (cloud, virtualisation,  automatisation...)
 Elles ont pour but de recueillir les avis des professionnels afin d'améliorer nos formations (DUT/LicPro/BUT) 
 
-2 Quels sont les métiers en tension actuellement  ?
+1 Quels sont les métiers en tension actuellement  ?
 
-3 Quels sont à votre avis les métiers réseaux en perte de vitesse ?
+2 Quels sont à votre avis les métiers réseaux en perte de vitesse ?
 
-4 Quels sont les métiers réseaux porteurs pour le futur de nos étudiants ?
+3 Quels sont les métiers réseaux porteurs pour le futur de nos étudiants ?
 
-5 Quelles sont thèmes "actuels" à conserver ?
+4 Quelles sont thèmes "actuels" à conserver ?
 
-6 Quelles sont les technologies  qu'il faut intégrer dans nos enseignements  ?
+5 Quelles sont les technologies  qu'il faut intégrer dans nos enseignements  ?
 
-7 Quels outils/langages pour l'automatisation ( devops/netops) ?
+6 Quels outils/langages pour l'automatisation ( devops/netops) ?
 
-8 Comment améliorer l'insertion de nos diplômés?
+7 Comment améliorer l'insertion de nos diplômés?
 
-9 L'approche par compétence vous parle t -elle en tant que pro ?
+8 L'approche par compétence vous parle t -elle en tant que pro ?
 
-10 Quelles sont les compétences les plus utiles dans nos métiers ?
+9 Quelles sont les compétences les plus utiles dans nos métiers ?
 
-11 Quelles sont les compétences qui manquent le plus à des diplômés réseaux actuellement ?
+10 Quelles sont les compétences qui manquent le plus à des diplômés réseaux actuellement ?
 
-Conclusion: 
+Conclusion par gilbert Moisio consultant senior (https://moisio.fr)
+
+## 14:00 à 14:45 Router pour le CLOUD: Présentation et échanges avec la société 6 wind 
+
+Voir
+https://www.6wind.com/documentation/
+
+
+## 14:45 à 15:30 Présentation Solutions for providing Cloud Computing access at scale for higher education: Karim Chine de RosettaHub et échanges.
+
+Voir
+https://docs.google.com/presentation/d/1fH0CHcqZaTpKqJGeca7_F_SByi9nzyCAQsNpTxepWRw/edit#slide=id.g77905582ab_2_108
+https://docs.google.com/spreadsheets/d/1edW9ll23A4pFWlVS-s7HJiUUqNPFf_Mop5SlfUQhKhk/edit#gid=340002979
+
+## 14:45 à 16:00 Pause 
+
+## 16:00 à 17:00 Echanges entre les enseignants - Propositions pour l'ACD.
+
+
+
+
+
 
 
