@@ -29,7 +29,7 @@ Elles ont pour but de recueillir les avis des professionnels afin d'améliorer n
 
 Conclusion par gilbert Moisio consultant senior (https://moisio.fr)
 
-## 14:00 à 14:45 Router pour le CLOUD: Présentation et échanges avec la société 6 wind 
+## 14:00 à 14:45 Router pour le CLOUD: Présentation et échanges avec la société 6 wind et échanges
 
 Voir
 https://www.6wind.com/documentation/
