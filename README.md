@@ -1,7 +1,8 @@
 # Programme meetup réseaux R&T du Mardi 16 Juin 2020 
 
 
-##  13:00 à 14:00 Quels orientations pour les professionnels ?
+
+##  13:00 à 14:00 Quelles orientations pour l'enseignement des réseaux  du point de vue des professionnels ?
 
 Ces questions sont focalisées sur les métiers des réseaux et de l'infrastructure au sens large (cloud, virtualisation,  automatisation...)
 Elles ont pour but de recueillir les avis des professionnels afin d'améliorer nos formations (DUT/LicPro/BUT) 
@@ -42,7 +43,8 @@ https://docs.google.com/spreadsheets/d/1edW9ll23A4pFWlVS-s7HJiUUqNPFf_Mop5SlfUQh
 
 ## 14:45 à 16:00 Pause 
 
-## 16:00 à 17:00 Echanges entre les enseignants - Propositions pour l'ACD.
+## 16:00 à 16:45 Sous réserve RedHat  
+## 16:45 à 17:30 Echanges entre les enseignants - Bilan de l'AM _ Propositions pour l'ACD.
 
 
 
