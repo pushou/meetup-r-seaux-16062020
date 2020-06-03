@@ -39,7 +39,7 @@ https://docs.google.com/spreadsheets/d/1edW9ll23A4pFWlVS-s7HJiUUqNPFf_Mop5SlfUQh
 
 ## 14:45 à 16:00 Pause 
 
-## 16:00 à 16:45 Panorama des Technologies du CLOUD par Cyril Lopez de RedHat et échanges.
+## 16:00 à 16:45 Panorama des Technologies du CLOUD par Cyril Lopez architecte CLOUD chez RedHat et échanges.
 
 ## 16:45 à 17:30 Retours sur le questionnaire Enseignants - Echanges entre les enseignants - Bilan de l'AM - Propositions de retours  vers l'ACD...
 
