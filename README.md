@@ -3,7 +3,7 @@
 ## Introduction JMP
 Bonjour,
 Merci à tous d'être présents.
-Normalement l'offre longue durée de Zoom est encore active mais si jamais nous sommes déconnectés au bout de 40 mn pensez à regarder votre mel...
+Normalement l'offre longue durée de Zoom est encore active mais si jamais nous sommes déconnectés au bout de 40 mn pensez à regarder votre mel pour une connexion en plan B...
 Vous pouvez charger le client Zoom sur https://zoom.us/download. 
 Merci de couper vos micros et merci de votre indulgence je ne suis pas un habitué de ce type de réunion. 
 Le meetup est enregistré à la demande de certains collègues  et mes compétences ne me permettent pas de couper au montage les noms et les visages de chacun. Votre participation vaut acceptation d'être filmé et enregistré.
