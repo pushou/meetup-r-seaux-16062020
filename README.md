@@ -16,15 +16,17 @@ Toutes les réactions discussions questions... sont les bienvenues, n'hésitez p
 En ce qui me concerne ma vision des choses est la suivante:
 
 Dans les entreprise on est passé des infrastructure classiques dites « on premise » vers le CLOUD privé, public ou hybride. La demande d’experts assurant la migration, le maintien  et la cohérence de ces deux types d’infrastructures est très forte constituant un premier gisement d’emplois pour nos étudiants.
-	Le CLOUD  se nourrit de la dynamique insufflée par le développement et le déploiement en mode continue  et agile de codes logiciels sous la pression d’un marché très concurrentiel et de clients avides de nouveautés. La prise en compte de la sécurité a aussi engendré des besoins de mises à jours fréquents.
-	Ces applications « CLOUD NATIVE »  nécessitent donc de  mettre en place de chaînes « CI/CD » (Continuous Delivery & Continuous Integration ). Ces chaînes sont présentes dans le développement logiciel mais aussi les infrastructures qui sont sont bâties à partir du « code ». 
-Elles concernent donc les développeurs  et opérationnels « DevOps »  réunis dans un seul élan pour le « build, ship and run » qui permet de délivrer des applications.
-	Le maintien et la conception de ces chaînes constituent  le second gisement d’emplois qui s’offre à nos étudiants.  
 
-	Les métiers classiques des réseaux et de la virtualisation sont toujours présents mais ils se doublent par des compétences CLOUD. 
-	Les matériels réseaux ont investi les « datacentres » où se développent le  « Sofware Define Networking » et les infrastructures de virtualisation des fonctions réseaux  « NFVI».
-	L’explosion du nombre des matériels sur un seul lieu demande des savoir-faire afin de configurer et manager ces matériels réseaux physiques ou virtuels. 
-	Ces métiers du « NetOps » constituent le troisième gisement d’emploi direct pour nos étudiants réseaux.
+Le CLOUD  se nourrit de la dynamique insufflée par le développement et le déploiement en mode continue  et agile de codes logiciels sous la pression d’un marché très concurrentiel et de clients avides de nouveautés. La prise en compte de la sécurité a aussi engendré des besoins de mises à jours fréquents.
+
+Ces applications « CLOUD NATIVE »  nécessitent donc de  mettre en place de chaînes « CI/CD » (Continuous Delivery & Continuous Integration ). Ces chaînes sont présentes dans le développement logiciel mais aussi les infrastructures qui sont sont bâties à partir du « code ». 
+Elles concernent donc les développeurs  et opérationnels « DevOps »  réunis dans un seul élan pour le « build, ship and run » qui permet de délivrer des applications.
+Le maintien et la conception de ces chaînes constituent  le second gisement d’emplois qui s’offre à nos étudiants.  
+
+Les métiers classiques des réseaux et de la virtualisation sont toujours présents mais ils se doublent par des compétences CLOUD. 
+Les matériels réseaux ont investi les « datacentres » où se développent le  « Sofware Define Networking » et les infrastructures de virtualisation des fonctions réseaux  « NFVI».
+L’explosion du nombre des matériels sur un seul lieu demande des savoir-faire afin de configurer et manager ces matériels réseaux physiques ou virtuels. 
+Ces métiers du « NetOps » constituent le troisième gisement d’emploi direct pour nos étudiants réseaux.
 
 Les métiers  de l’« Internet des Objets » sont aussi intimement lié au CLOUD et à « l’edge computing ». De même les métiers de la sécurité demandent l’acquisition de nouvelles compétences sur le CLOUD  qui devient un domaine d’application majeur pour ces métiers. 
 
