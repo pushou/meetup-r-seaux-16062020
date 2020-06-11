@@ -9,7 +9,7 @@ Merci de couper vos micros et merci de votre indulgence je ne suis pas un habitu
 Le meetup est enregistré à la demande de certains collègues  et mes compétences ne me permettent pas de couper au montage les noms et les visages de chacun. Votre participation vaut acceptation d'être filmé et enregistré.
 La vidéo ne sera pas publique mais diffusé au niveau de l'ACD R&T.Il y a des enseignants mais aussi des représentants des entreprises.  
 Si quelqu'un veut prendre des notes et faire un "pull request" ensuite pour le merger avec ce document qu'il n'hésite pas.
-
+Merci à Sebastien de la R. pour sa mise en contact avec la société 6wind.
 Je tiens encore à remercier les salariés des entreprises publiques et privés présents autour de la table.
 Toutes les réactions discussions questions... sont les bienvenues, n'hésitez pas à prendre la parole lors de cette confrontation amicale. 
 
