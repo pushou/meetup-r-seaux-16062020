@@ -6,7 +6,9 @@
 ##  13:00 à 14:00 Quelles orientations pour l'enseignement des réseaux  du point de vue des professionnels ?
 Echanges au travers du questionnaire wooclap
 https://www.wooclap.com/MEETUPRT2020
-canal slack https://join.slack.com/share/zt-f3iigksi-QUQDgkZ09u~xZ57HFY3j3A
+
+canal slack 
+https://join.slack.com/share/zt-f3iigksi-QUQDgkZ09u~xZ57HFY3j3A
 
 Conclusion par gilbert Moisio consultant senior (https://moisio.fr)
 
