@@ -30,9 +30,8 @@ Ces métiers du « NetOps » constituent le troisième gisement d’emploi dir
 
 Les métiers  de l’« Internet des Objets » sont aussi intimement lié au CLOUD et à « l’edge computing ». De même les métiers de la sécurité demandent l’acquisition de nouvelles compétences sur le CLOUD  qui devient un domaine d’application majeur pour ces métiers. 
 
-D'accord pas d'accord c'est le moment de vous exprimer au travers de wooclap.
-https://app.wooclap.com/MEETUPRT
 
+Echanges au travers du questionnaire wooclap https://www.wooclap.com/MEETUPRT2020
 
 ##  13:00 à 14:00 Quelles orientations pour l'enseignement des réseaux  du point de vue des professionnels ?
 
