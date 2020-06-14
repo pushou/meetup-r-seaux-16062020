@@ -9,7 +9,7 @@ Merci de couper vos micros et merci de votre indulgence je ne suis pas un habitu
 Le meetup est enregistré à la demande de certains collègues  et mes compétences ne me permettent pas de couper au montage les noms et les visages de chacun. Votre participation vaut acceptation d'être filmé et enregistré.
 La vidéo ne sera pas publique mais diffusé au niveau de l'ACD R&T.Il y a des enseignants mais aussi des représentants des entreprises.  
 Si quelqu'un veut prendre des notes et faire un "pull request" ensuite pour le merger avec ce document qu'il n'hésite pas.
-Merci à Sebastien de la R. pour sa mise en contact avec la société 6wind.
+Merci à Sebastien de la R. pour sa mise en contact avec la société 6wind, de Stéphane pour sa proposition, et du soutien de Fabrice.
 Je tiens encore à remercier les salariés des entreprises publiques et privés présents autour de la table.
 Toutes les réactions discussions questions... sont les bienvenues, n'hésitez pas à prendre la parole lors de cette confrontation amicale. 
 
@@ -30,7 +30,8 @@ Ces métiers du « NetOps » constituent le troisième gisement d’emploi dir
 
 Les métiers  de l’« Internet des Objets » sont aussi intimement lié au CLOUD et à « l’edge computing ». De même les métiers de la sécurité demandent l’acquisition de nouvelles compétences sur le CLOUD  qui devient un domaine d’application majeur pour ces métiers. 
 
-D'accord pas d'accord c'est le moment de vous exprimer au travers de wooclap.[mettre l'url ]
+D'accord pas d'accord c'est le moment de vous exprimer au travers de wooclap.
+https://app.wooclap.com/MEETUPRT
 
 
 ##  13:00 à 14:00 Quelles orientations pour l'enseignement des réseaux  du point de vue des professionnels ?
