@@ -18,9 +18,12 @@ https://www.6wind.com/documentation/
 ## 14:45 à 15:30 "Présentation Solutions for providing Cloud Computing access at scale for higher education": Karim Chine de RosettaHub et échanges.
 
 Voir
+
 https://docs.google.com/presentation/d/1fH0CHcqZaTpKqJGeca7_F_SByi9nzyCAQsNpTxepWRw/edit#slide=id.g77905582ab_2_108
+
 https://docs.google.com/spreadsheets/d/1edW9ll23A4pFWlVS-s7HJiUUqNPFf_Mop5SlfUQhKhk/edit#gid=340002979
- https://docs.google.com/document/d/1CI21V4fj2q0cA3YM4GlivyzDArywqDt-z1YJsA4HsvE/edit?usp=sharing
+
+https://docs.google.com/document/d/1CI21V4fj2q0cA3YM4GlivyzDArywqDt-z1YJsA4HsvE/edit?usp=sharing
 
 ## 14:45 à 16:00 Pause 
 
