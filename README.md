@@ -2,26 +2,10 @@
 
 ## Introduction JMP
 
+
 ##  13:00 à 14:00 Quelles orientations pour l'enseignement des réseaux  du point de vue des professionnels ?
-
-Ces questions sont focalisées sur les métiers des réseaux et de l'infrastructure au sens large (cloud, virtualisation,  automatisation...)
-Elles ont pour but de recueillir les avis des professionnels afin d'améliorer nos formations (DUT/LicPro/BUT) 
-
-1 Quels sont les métiers en tension actuellement  ?
-
-2 Quels sont les métiers réseaux/infra en perte de vitesse ?
-
-3 Quels sont les métiers réseaux porteurs pour le futur professionnel de nos étudiants ?
-
-4 Quelles sont les technologies  qu'il faut intégrer dans nos enseignements  ?
-
-5 Quels sont les outils/langages pour l'automatisation ( devops/netops) ?
-
-6 L'approche par compétence vous parle t -elle en tant que pro ?
-
-7 Quelles sont les compétences les plus utiles dans nos métiers ?
-
-8 Quelles sont les compétences qui manquent le plus à des diplômés réseaux actuellement ?
+Echanges au travers du questionnaire wooclap
+https://www.wooclap.com/MEETUPRT2020
 
 Conclusion par gilbert Moisio consultant senior (https://moisio.fr)
 
