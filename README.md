@@ -28,7 +28,7 @@ https://docs.google.com/spreadsheets/d/1edW9ll23A4pFWlVS-s7HJiUUqNPFf_Mop5SlfUQh
 
 https://docs.google.com/document/d/1CI21V4fj2q0cA3YM4GlivyzDArywqDt-z1YJsA4HsvE/edit?usp=sharing
 
-## 14:45 à 16:00 Pause 
+## 15:45 à 16:00 Pause 
 
 ## 16:00 à 16:45 Panorama des Technologies du CLOUD par Cyril Lopez architecte CLOUD chez RedHat et échanges.
 
